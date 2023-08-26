@@ -9,7 +9,7 @@ from langchain.chains.summarize import load_summarize_chain
 import tempfile
 from langchain.docstore.document import Document
 
-st.title("Summarizer")
+st.title("SummaLearn")
 
 uploaded_file = st.file_uploader("Upload PDF File", type=["pdf"])
 file_path = None
