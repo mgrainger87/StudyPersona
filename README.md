@@ -1,6 +1,7 @@
 # SummaLearn: Your Personalized Study Assistant
 
-![SummaLearn Logo](path_to_logo.png)  <!-- Replace 'path_to_logo.png' with the actual path to your logo if you have one -->
+| ![Logo 1](logo-1-DALL-E.png) | ![Logo 2](logo-2-DALL-E.png) | ![Logo 3](logo-3-DALL-E.png) | ![Logo 4](logo-4-DALL-E.png) |
+|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
 
 **Introducing the Future of Study: SummaLearn!**
 
