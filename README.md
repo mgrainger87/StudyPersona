@@ -3,6 +3,8 @@
 | ![Logo 1](logo-1-DALL-E.png) | ![Logo 2](logo-2-DALL-E.png) | ![Logo 3](logo-3-DALL-E.png) | ![Logo 4](logo-4-DALL-E.png) |
 |:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
 
+*Image credits: DALL-E*
+
 **Introducing the Future of Study: SummaLearn!**
 
 Are you overwhelmed by the sheer volume of study materials? Do you find yourself skimming through pages of content, desperately searching for the essence? Look no further! We present SummaLearn - the revolutionary tool designed to supercharge your study sessions.
