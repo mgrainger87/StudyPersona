@@ -58,21 +58,21 @@ Make sure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
-## Generating an OpenAPI API Key:
+## Generating an OpenAI API Key:
 
-To use SummaLeaern, you will need an OpenAPI API key. Here's how you can obtain and configure it:
+For enhanced functionality, SummaLearn integrates with OpenAI's powerful models. To utilize these features, you'll need an OpenAI API key. Follow these steps to obtain and configure it:
 
-1. **Visit the OpenAPI Registration Portal**:
-   - Navigate to [OpenAPI's registration page](https://platform.openai.com/).
+1. **Visit OpenAI's Developer Portal**:
+   - Navigate to [OpenAPI's Developer Dashboard](https://platform.openai.com/).
    
 2. **Sign Up/Log In**:
-   - If you're a new user, sign up for an account. If you already have an account, simply log in.
+   - If you're a new user, sign up for an account. Existing users can log in.
 
 3. **Generate API Key**:
-   - Once logged in, go to the 'API Keys' section.
-   - Click on 'Generate New Key'. You might be prompted to give your key a name or set permissions. Make sure you grant the required permissions for SummaLearn to function optimally.
+   - Once logged in, head to the 'API Keys' section.
+   - Click on 'Create a New Key'. Assign the necessary permissions and provide a name for the key if prompted.
 
-**Note**: Keep your API key confidential. Do not share it with others or expose it in public forums. If you believe your key has been compromised, return to the OpenAPI portal and revoke the key, then generate a new one.
+**Important**: Your API key is sensitive information. Do not share it publicly, and avoid committing it directly to source code repositories. If you believe your key has been compromised, revisit the OpenAI portal to revoke the key and generate a new one.
 
 ## Usage:
 
