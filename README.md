@@ -26,6 +26,14 @@ Let SummaLearn be your academic ally. Embrace a smarter, more personalized way o
 
 Join the study revolution. Experience SummaLearn now!
 
+## Powered by DemoGPT
+
+SummaLearn is proud to be built on the foundation of DemoGPT, an innovative open-source project that crafts applications using cutting-edge generative AI from just a single prompt. This testament to the power of AI showcases how technology can be harnessed to create functional and impactful applications with minimal human input.
+
+For those curious about DemoGPT or interested in creating their own applications using this revolutionary technology, visit the official [DemoGPT website](https://www.demogpt.io).
+
+By leveraging the capabilities of DemoGPT, SummaLearn aims to provide the best in class service for students, ensuring quality and efficiency in every generated summary.
+
 ## Prerequisites:
 
 Make sure you have the following installed:
