@@ -27,6 +27,49 @@ Let SummaLearn be your academic ally. Embrace a smarter, more personalized way o
 
 Join the study revolution. Experience SummaLearn now!
 
+## Sample Personas
+
+Here are some persona descriptions that can guide the AI in tailoring summaries:
+
+1. **Interactive Learner**: "Add interactive elements or quizzes in the summary."
+2. **Ethical Examiner**: "Emphasize ethical considerations or moral implications in the summary."
+3. **Quick Reviser**: "Provide a brief, bullet-point summary for quick revision."
+4. **Deep Diver**: "Craft a detailed summary covering all major points."
+5. **Conceptual Thinker**: "Emphasize core concepts and theories in the summary."
+6. **Practical Implementer**: "Highlight practical applications and real-world examples."
+7. **Question Seeker**: "Format the summary as a Q&A."
+8. **Historical Contextualizer**: "Incorporate historical context and background in the summary."
+9. **Future Predictor**: "Include speculations on future implications of the topic."
+10. **Analogy Lover**: "Use comparisons and metaphors for explanations."
+11. **Cultural Explorer**: "Integrate cultural, societal, or global perspectives in the summary."
+12. **Debater**: "Present multiple viewpoints or arguments in the summary."
+13. **Storyteller**: "Narrate the summary in a story format."
+15. **Flashcard Fan**: "Segment the summary into flashcard-friendly snippets."
+16. **Project Planner**: "Detail the steps, stages, or processes in the summary."
+
+These personality-based personas can add unique flavors and perspectives to the generated summaries, making them engaging and entertaining:
+
+1. **Pirate**: "Craft the summary as if spoken by a swashbuckling pirate seeking treasure."
+2. **Criminal**: "Frame the summary with a sneaky, cunning tone, as if planning a heist."
+3. **Royalty**: "Present the summary with elegance and grandeur, fit for a king or queen."
+4. **Animal**: "Narrate the summary from the perspective of a curious animal exploring its environment."
+5. **Knight**: "Write the summary with valor and honor, as if preparing for a noble quest."
+6. **Witch/Wizard**: "Infuse the summary with a magical and mystical tone, hinting at spells and potions."
+7. **Explorer**: "Detail the summary with wonder and discovery, like an adventurer charting unknown lands."
+8. **Alien**: "Provide a summary from the viewpoint of an extraterrestrial observing Earth for the first time."
+9. **Robot**: "Generate a summary in a logical and analytical manner, devoid of emotion."
+10. **Ghost**: "Craft the summary with an eerie, haunting tone, as if whispered from the beyond."
+11. **Viking**: "Write with the vigor and might of a Viking setting sail for conquest."
+12. **Detective**: "Frame the summary as clues and findings from a complex investigation."
+13. **Noble**: "Present the summary with politeness and decorum, as befitting a highborn."
+14. **Scientist**: "Detail the summary with precision and curiosity, emphasizing facts and discoveries."
+15. **Mystic**: "Infuse the summary with spiritual and ethereal insights, hinting at deeper truths."
+16. **Warrior**: "Craft the summary with determination and courage, ready for battle."
+17. **Minstrel**: "Narrate the summary in a poetic and lyrical manner, suitable for a song or ballad."
+18. **Traveler**: "Write the summary with tales and observations from a journey across diverse landscapes."
+19. **Child**: "Provide a summary with innocence and wonder, as seen through a child's eyes."
+20. **Elder**: "Generate the summary with wisdom and experience, sharing tales from the past."
+
 ## Powered by DemoGPT
 
 SummaLearn is proud to be built on the foundation of DemoGPT, an innovative open-source project that crafts applications using cutting-edge generative AI from just a single prompt. This testament to the power of AI showcases how technology can be harnessed to create functional and impactful applications with minimal human input.
@@ -88,49 +131,6 @@ For enhanced functionality, SummaLearn integrates with OpenAI's powerful models.
    - Provide a short description of your study persona.
    - Wait a moment for SummaLearn to generate your personalized summary.
    - Read and utilize the generated summary for your studies!
-
-## Sample Personas
-
-Here are some persona descriptions that can guide the AI in tailoring summaries:
-
-1. **Interactive Learner**: "Add interactive elements or quizzes in the summary."
-2. **Ethical Examiner**: "Emphasize ethical considerations or moral implications in the summary."
-3. **Quick Reviser**: "Provide a brief, bullet-point summary for quick revision."
-4. **Deep Diver**: "Craft a detailed summary covering all major points."
-5. **Conceptual Thinker**: "Emphasize core concepts and theories in the summary."
-6. **Practical Implementer**: "Highlight practical applications and real-world examples."
-7. **Question Seeker**: "Format the summary as a Q&A."
-8. **Historical Contextualizer**: "Incorporate historical context and background in the summary."
-9. **Future Predictor**: "Include speculations on future implications of the topic."
-10. **Analogy Lover**: "Use comparisons and metaphors for explanations."
-11. **Cultural Explorer**: "Integrate cultural, societal, or global perspectives in the summary."
-12. **Debater**: "Present multiple viewpoints or arguments in the summary."
-13. **Storyteller**: "Narrate the summary in a story format."
-15. **Flashcard Fan**: "Segment the summary into flashcard-friendly snippets."
-16. **Project Planner**: "Detail the steps, stages, or processes in the summary."
-
-These personality-based personas can add unique flavors and perspectives to the generated summaries, making them engaging and entertaining:
-
-1. **Pirate**: "Craft the summary as if spoken by a swashbuckling pirate seeking treasure."
-2. **Criminal**: "Frame the summary with a sneaky, cunning tone, as if planning a heist."
-3. **Royalty**: "Present the summary with elegance and grandeur, fit for a king or queen."
-4. **Animal**: "Narrate the summary from the perspective of a curious animal exploring its environment."
-5. **Knight**: "Write the summary with valor and honor, as if preparing for a noble quest."
-6. **Witch/Wizard**: "Infuse the summary with a magical and mystical tone, hinting at spells and potions."
-7. **Explorer**: "Detail the summary with wonder and discovery, like an adventurer charting unknown lands."
-8. **Alien**: "Provide a summary from the viewpoint of an extraterrestrial observing Earth for the first time."
-9. **Robot**: "Generate a summary in a logical and analytical manner, devoid of emotion."
-10. **Ghost**: "Craft the summary with an eerie, haunting tone, as if whispered from the beyond."
-11. **Viking**: "Write with the vigor and might of a Viking setting sail for conquest."
-12. **Detective**: "Frame the summary as clues and findings from a complex investigation."
-13. **Noble**: "Present the summary with politeness and decorum, as befitting a highborn."
-14. **Scientist**: "Detail the summary with precision and curiosity, emphasizing facts and discoveries."
-15. **Mystic**: "Infuse the summary with spiritual and ethereal insights, hinting at deeper truths."
-16. **Warrior**: "Craft the summary with determination and courage, ready for battle."
-17. **Minstrel**: "Narrate the summary in a poetic and lyrical manner, suitable for a song or ballad."
-18. **Traveler**: "Write the summary with tales and observations from a journey across diverse landscapes."
-19. **Child**: "Provide a summary with innocence and wonder, as seen through a child's eyes."
-20. **Elder**: "Generate the summary with wisdom and experience, sharing tales from the past."
 
 ## Contributing:
 
