@@ -78,7 +78,7 @@ For enhanced functionality, SummaLearn integrates with OpenAI's powerful models.
 
 1. **Run SummaLearn**:
    ```bash
-   streamlit run SummaLearn/summalearn.py
+   streamlit run summalearn.py
    ```
 
 2. This will launch SummaLearn in your default web browser. Follow the on-screen instructions:
