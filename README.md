@@ -92,10 +92,6 @@ For enhanced functionality, SummaLearn integrates with OpenAI's powerful models.
 
 We welcome contributions! Please see the `CONTRIBUTING.md` file for guidelines.
 
-## License:
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Support & Feedback:
 
 For any queries or feedback, please raise an issue on our [GitHub repository](https://github.com/mgrainger87/SummaLearn/issues).
